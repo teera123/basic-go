@@ -1,0 +1,7 @@
+port: 8080
+
+mongodb:
+  conn: "mongodb+srv://teerapat:HDrLv7gRVMJ8BJaX@cluster0.5m0mj.mongodb.net/sample_airbnb?retryWrites=true&w=majority"
+
+movie:
+  enable: true
